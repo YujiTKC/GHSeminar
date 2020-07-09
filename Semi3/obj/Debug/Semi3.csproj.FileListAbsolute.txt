@@ -1,0 +1,8 @@
+C:\Users\y0836\Documents\2_Code\GhSeminar\GHSeminar\Semi3\bin\Semi3.dll
+C:\Users\y0836\Documents\2_Code\GhSeminar\GHSeminar\Semi3\bin\Semi3.pdb
+C:\Users\y0836\Documents\2_Code\GhSeminar\GHSeminar\Semi3\obj\Debug\Semi3.csprojAssemblyReference.cache
+C:\Users\y0836\Documents\2_Code\GhSeminar\GHSeminar\Semi3\obj\Debug\Semi3.csproj.CoreCompileInputs.cache
+C:\Users\y0836\Documents\2_Code\GhSeminar\GHSeminar\Semi3\obj\Debug\Semi3.dll
+C:\Users\y0836\Documents\2_Code\GhSeminar\GHSeminar\Semi3\obj\Debug\Semi3.pdb
+C:\Users\y0836\AppData\Roaming\Grasshopper\Libraries\Semi3.dll
+C:\Users\y0836\AppData\Roaming\Grasshopper\Libraries\Semi3.pdb
